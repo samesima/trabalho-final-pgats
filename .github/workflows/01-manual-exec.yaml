@@ -21,5 +21,5 @@ jobs:
       - name: Instalando dependencias
         run: yarn
 
-      - name: Executando Testes E2E
+      - name: Executando Testes
         run: yarn run test
