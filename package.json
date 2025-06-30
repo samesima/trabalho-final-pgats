@@ -4,7 +4,7 @@
   "main": "trabalho-final.js",
   "type": "module",
   "scripts": {
-    "test": "mocha trabalho-final.js"
+    "test": "mocha trabalho-final/trabalho-final.js"
   },
   "keywords": [],
   "author": "",
