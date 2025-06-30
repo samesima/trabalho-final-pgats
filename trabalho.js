@@ -41,6 +41,8 @@ export function decidirTipoDeAtividadePorPorte(porte) {
     }
 }
 
+
+
 export async function buscarDadoAsync() {
     return new Promise(
         (resolve) => {
